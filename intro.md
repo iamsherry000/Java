@@ -5,8 +5,9 @@
 
 - GerInput.java shows how to use scanner to get input
 
-- ArithmeticExample.java shows the basic math
+- ArithmeticExample.java shows the basic, ex: z = x + y;
 
 - RandomNumbers.java shows how to use the random
 
-- 
+- MathExample.java shows the basic math function, such as 'pi', 'pow', 'abs' ,etc.
+

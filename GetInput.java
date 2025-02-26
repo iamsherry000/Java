@@ -31,5 +31,9 @@ public class GetInput {
         scanner.close();
         // Can lead to unexpected behaviour if you dont have the scanner closed.
 
+
+        // printf() is a method used to format output
+        // %[flags][width][.precision][specifier-character]
+
     }
 }
