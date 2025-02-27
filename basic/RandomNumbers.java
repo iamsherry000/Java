@@ -1,3 +1,4 @@
+package basic;
 import java.util.Random;
 public class RandomNumbers {
     public static void main(String[] args) {

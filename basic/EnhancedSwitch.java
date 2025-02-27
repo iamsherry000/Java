@@ -1,3 +1,4 @@
+package basic;
 public class EnhancedSwitch {
     public static void main(String[] args) {
         // Enhanced switch = A replacement to many else if statements(Java14 feature)

@@ -1,3 +1,4 @@
+package basic;
 public class StringAndChar {
     public static void main(String[] args) {
         String name = "   T ested 1   ";

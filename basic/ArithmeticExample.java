@@ -1,3 +1,4 @@
+package basic;
 public class ArithmeticExample {
     public static void main(String[] args) {
         

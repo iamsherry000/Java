@@ -2,6 +2,7 @@
 [youtube](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
 
 - BasicVariables.java shows the basic variables and the difference of 'primitive' and 'reference'
+![alt text](image.png)
 
 - GerInput.java shows how to use scanner to get input
 
