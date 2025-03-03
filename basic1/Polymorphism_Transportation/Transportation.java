@@ -4,7 +4,7 @@ public abstract class Transportation {
     boolean isRunning;
     String catagories;
 
-    abstract void numOfWheels();
+    abstract void NumOfWheels();
     
     void start() {
         isRunning = true;

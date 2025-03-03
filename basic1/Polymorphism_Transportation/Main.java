@@ -25,7 +25,7 @@ public class Main {
 
         for(Transportation tran : trans) {
             System.out.print(tran.catagories + " ");
-            tran.numOfWheels();
+            tran.NumOfWheels();
         }
     }
 
@@ -37,7 +37,7 @@ public class Main {
 
         if(choice == 1) tran = new Car();
         if(choice == 2) tran = new Boat();
-        tran.numOfWheels();
+        tran.NumOfWheels();
         scanner.close();
     }
 }

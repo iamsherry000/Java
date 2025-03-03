@@ -7,7 +7,7 @@ public class Boat extends Transportation {
     }
 
     @Override
-    void numOfWheels() {
+    void NumOfWheels() {
         System.out.println("0 wheels");
     }
 }
